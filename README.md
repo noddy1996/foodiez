@@ -1,2 +1,0 @@
-# foodiez
-food test app
